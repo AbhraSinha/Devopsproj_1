@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-		<title>Welcome to Devops course modified!</title>
+		<title>Title Update : 4/2/2018</title>
 </head>
 <body>
 	<?php
