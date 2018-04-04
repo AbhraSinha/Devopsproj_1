@@ -8,6 +8,7 @@
 		require 'Welcome.php';
 		$welcome = new Welcome();
 	?>
-	<h1><?php echo $welcome->greet() ?></h1>>
+	<h1><?php echo $welcome->greet() ?></h1>
+	<h2>This Pipeline work!</h2>
 </body>
 </html>
