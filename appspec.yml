@@ -1,11 +1,11 @@
 version: 0.0
 os: linux
 files:
-  - source: Welcome.php
+ - source: Welcome.php
   destination: /var/www/html
 
-  - source: WelcomeTest.php
+ - source: WelcomeTest.php
   destination: /var/www/html
 
-  - source: index.php
+ - source: index.php
   destination: /var/www/html
